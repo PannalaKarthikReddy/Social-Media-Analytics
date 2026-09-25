@@ -1,6 +1,10 @@
 # Social-Media-Analytics
 End-to-end social media analytics project using MySQL, SQL, and Power BI
 
+📊 Dashboard Preview
+
+[Social Media Analytics Dashboard](Dashboard.png)
+
 ## 📌 Project Overview
 
 This project analyzes social media performance data across **Facebook, Instagram, LinkedIn, and YouTube** to identify patterns in engagement, reach, content performance, campaign performance, and posting behavior.
