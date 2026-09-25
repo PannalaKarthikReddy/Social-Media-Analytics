@@ -3,7 +3,7 @@ End-to-end social media analytics project using MySQL, SQL, and Power BI
 
 📊 Dashboard Preview
 
-[Social Media Analytics Dashboard](Dashboard.png)
+![Social Media Analytics Dashboard](Dashboard.png)
 
 ## 📌 Project Overview
 
